@@ -2,5 +2,7 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello Git Practice");
          System.out.println("Hello Practice");
+         c mvx,m xz;
     }
+
 }
